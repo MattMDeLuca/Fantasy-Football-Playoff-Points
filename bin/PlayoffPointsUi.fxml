@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="anchorPane" prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="PlayoffPointsUiController">
+   <children>
+      <TableView fx:id="tableView" layoutX="-1.0" layoutY="-3.0" prefHeight="573.0" prefWidth="900.0" AnchorPane.leftAnchor="-1.0" AnchorPane.rightAnchor="1.0" AnchorPane.topAnchor="-3.0">
+        <columns>
+          <TableColumn fx:id="team" maxWidth="-1.0" minWidth="180.0" prefWidth="-1.0" text="Team" />
+          <TableColumn fx:id="week14Points" minWidth="120.0" prefWidth="120.0" text="Week 14 Points" />
+            <TableColumn fx:id="week14Record" minWidth="120.0" prefWidth="120.0" text="Week 14 Record" />
+            <TableColumn fx:id="week15Points" minWidth="120.0" prefWidth="120.0" text="Week 15 Points" />
+            <TableColumn fx:id="week15Record" minWidth="120.0" prefWidth="75.0" text="Week 15 Record" />
+            <TableColumn fx:id="totalPoints" minWidth="120.0" prefWidth="120.0" text="Total Points" />
+            <TableColumn fx:id="totalRecord" minWidth="120.0" prefWidth="120.0" text="Total Record" />
+        </columns>
+      </TableView>
+      <TextField fx:id="refreshedTextfield" alignment="CENTER" layoutY="570.0" prefHeight="29.0" prefWidth="900.0" AnchorPane.bottomAnchor="1.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="570.0">
+         <font>
+            <Font name="System Italic" size="11.0" />
+         </font>
+      </TextField>
+   </children>
+</AnchorPane>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<liveScoring week="14">
+  <franchise id="0001" score="141.44" gameSecondsRemaining="0" playersYetToPlay="0" playersCurrentlyPlaying="0">
+    <players>
+      <player id="11516" score="7.90" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10948" score="25.20" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12159" score="19.20" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="0529" score="8.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="6589" score="2.54" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12205" score="14.15" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10308" score="9.90" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11668" score="15.35" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12391" score="22.20" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="13354" score="17.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+    </players>
+  </franchise>
+  <franchise id="0002" score="128.44" gameSecondsRemaining="7200" playersYetToPlay="2" playersCurrentlyPlaying="0">
+    <players>
+      <player id="7393" score="8.15" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12611" score="16.16" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="0509" score="10.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12620" score="26.58" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12184" score="5.65" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="8359" score="0.00" gameSecondsRemaining="3600" status="starter" updatedStats="" />
+      <player id="11182" score="0.00" gameSecondsRemaining="3600" status="starter" updatedStats="" />
+      <player id="9448" score="21.60" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12652" score="25.20" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11660" score="15.10" gameSecondsRemaining="0" status="starter" updatedStats="" />
+    </players>
+  </franchise>
+  <franchise id="0003" score="77.73" gameSecondsRemaining="0" playersYetToPlay="0" playersCurrentlyPlaying="0">
+    <players>
+      <player id="10709" score="12.50" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11977" score="5.90" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11672" score="10.25" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11642" score="18.72" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12141" score="7.46" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="0512" score="12.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="7422" score="0.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="9319" score="1.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11076" score="1.15" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="6997" score="8.75" gameSecondsRemaining="0" status="starter" updatedStats="" />
+    </players>
+  </franchise>
+  <franchise id="0004" score="91.94" gameSecondsRemaining="7200" playersYetToPlay="2" playersCurrentlyPlaying="0">
+    <players>
+      <player id="10723" score="18.80" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="5848" score="0.00" gameSecondsRemaining="3600" status="starter" updatedStats="" />
+      <player id="9099" score="12.84" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="0528" score="12.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10738" score="8.65" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10261" score="10.15" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="9686" score="1.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10271" score="13.55" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10722" score="14.95" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="9308" score="0.00" gameSecondsRemaining="3600" status="starter" updatedStats="" />
+    </players>
+  </franchise>
+  <franchise id="0005" score="117.37" gameSecondsRemaining="0" playersYetToPlay="0" playersCurrentlyPlaying="0">
+    <players>
+      <player id="10273" score="16.48" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="7877" score="14.75" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10708" score="7.50" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11671" score="4.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="13132" score="4.95" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="13139" score="29.05" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11761" score="7.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10313" score="9.64" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="0518" score="14.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="6789" score="10.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+    </players>
+  </franchise>
+  <franchise id="0006" score="149.65" gameSecondsRemaining="3600" playersYetToPlay="1" playersCurrentlyPlaying="0">
+    <players>
+      <player id="13114" score="21.26" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10487" score="10.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12634" score="28.25" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="7401" score="28.74" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="0514" score="6.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10960" score="15.15" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12801" score="10.50" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12176" score="0.00" gameSecondsRemaining="3600" status="starter" updatedStats="" />
+      <player id="12646" score="15.95" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11657" score="13.80" gameSecondsRemaining="0" status="starter" updatedStats="" />
+    </players>
+  </franchise>
+  <franchise id="0007" score="115.80" gameSecondsRemaining="0" playersYetToPlay="0" playersCurrentlyPlaying="0">
+    <players>
+      <player id="10703" score="27.84" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11390" score="3.50" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="9693" score="6.60" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11938" score="21.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="13130" score="7.55" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="9823" score="15.55" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="9064" score="18.76" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="0532" score="6.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12175" score="0.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10976" score="9.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+    </players>
+  </franchise>
+  <franchise id="0008" score="139.30" gameSecondsRemaining="0" playersYetToPlay="0" playersCurrentlyPlaying="0">
+    <players>
+      <player id="12150" score="27.75" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11239" score="15.10" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="0531" score="6.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="7394" score="20.76" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12956" score="5.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12658" score="3.10" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="4925" score="19.04" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="9427" score="13.25" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="13129" score="20.90" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="13189" score="8.40" gameSecondsRemaining="0" status="starter" updatedStats="" />
+    </players>
+  </franchise>
+  <franchise id="0009" score="99.55" gameSecondsRemaining="3600" playersYetToPlay="1" playersCurrentlyPlaying="0">
+    <players>
+      <player id="9075" score="9.40" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12157" score="13.90" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10868" score="5.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11680" score="0.00" gameSecondsRemaining="3600" status="starter" updatedStats="" />
+      <player id="10413" score="0.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="8416" score="7.95" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="0524" score="6.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12140" score="20.40" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="9884" score="21.30" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11222" score="15.60" gameSecondsRemaining="0" status="starter" updatedStats="" />
+    </players>
+  </franchise>
+  <franchise id="0010" score="131.21" gameSecondsRemaining="3600" playersYetToPlay="1" playersCurrentlyPlaying="0">
+    <players>
+      <player id="11674" score="0.00" gameSecondsRemaining="3600" status="starter" updatedStats="" />
+      <player id="11244" score="12.65" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10276" score="12.20" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="13303" score="14.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12151" score="15.05" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11232" score="35.15" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="13133" score="8.20" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="7813" score="13.12" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="0519" score="10.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10700" score="10.84" gameSecondsRemaining="0" status="starter" updatedStats="" />
+    </players>
+  </franchise>
+  <franchise id="0011" score="192.78" gameSecondsRemaining="0" playersYetToPlay="0" playersCurrentlyPlaying="0">
+    <players>
+      <player id="13138" score="22.05" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="13164" score="21.55" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11644" score="14.44" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12648" score="5.65" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="0522" score="16.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12181" score="12.40" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12417" score="14.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="9988" score="29.55" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11675" score="27.90" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12610" score="29.24" gameSecondsRemaining="0" status="starter" updatedStats="" />
+    </players>
+  </franchise>
+  <franchise id="0012" score="119.65" gameSecondsRemaining="3600" playersYetToPlay="1" playersCurrentlyPlaying="0">
+    <players>
+      <player id="10870" score="10.75" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10527" score="16.05" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="9925" score="0.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="10389" score="0.00" gameSecondsRemaining="3600" status="starter" updatedStats="" />
+      <player id="11760" score="17.36" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="9431" score="19.24" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="11192" score="37.25" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="0510" score="4.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="8930" score="7.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+      <player id="12626" score="8.00" gameSecondsRemaining="0" status="starter" updatedStats="" />
+    </players>
+  </franchise>
+</liveScoring>
